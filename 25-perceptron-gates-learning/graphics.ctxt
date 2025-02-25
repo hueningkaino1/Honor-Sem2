@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=graphics
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ graphics\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=graphics()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ graphics\r\n
+comment2.params=
+comment2.target=void\ drawLine()
+comment3.params=GA
+comment3.target=void\ getHash(java.util.HashMap)
+comment3.text=\r\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\r\n\r\n\ @param\ \ y\ \ a\ sample\ parameter\ for\ a\ method\r\n\ @return\ \ \ \ the\ sum\ of\ x\ and\ y\r\n
+numComments=4
