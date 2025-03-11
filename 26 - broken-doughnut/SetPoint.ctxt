@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=SetPoint
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ SetPoint\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=xx\ yy\ tags
+comment1.target=SetPoint(double,\ double,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ SetPoint\r\n
+comment2.params=
+comment2.target=double\ getX()
+comment2.text=\r\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\r\n\r\n\ @param\ \ y\ \ a\ sample\ parameter\ for\ a\ method\r\n\ @return\ \ \ \ the\ sum\ of\ x\ and\ y\r\n
+comment3.params=
+comment3.target=double\ getY()
+comment4.params=
+comment4.target=java.lang.String\ getTag()
+comment5.params=s
+comment5.target=void\ setTag(java.lang.String)
+numComments=6
