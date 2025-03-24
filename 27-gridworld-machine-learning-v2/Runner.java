@@ -9,6 +9,6 @@ public class Runner
 {
     public static void main (String []args) {
         Grid g = new Grid();
-        g.start();
+        g.start1();
     }
 }

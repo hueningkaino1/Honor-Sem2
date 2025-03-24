@@ -66,6 +66,10 @@ public class Grid
         StdDraw.show();
     }
     
+    public void start1(){
+        Agent.getInstance().perOR();
+        Agent.getInstance().perDIR();
+    }
     
 
     // code for your Gridworld
